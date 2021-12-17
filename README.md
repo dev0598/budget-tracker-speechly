@@ -1,4 +1,4 @@
-aCCESS THE APPLICATION HERE: https://budget-tracker-speechly.netlify.app/
+ACCESS THE APPLICATION HERE: https://budget-tracker-speechly.netlify.app/
 
 
 # Getting Started with Create React App
